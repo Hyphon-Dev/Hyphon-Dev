@@ -3,9 +3,9 @@
 Hello 👋! Im HyphonDev Currently I am:
 
 > Making minecraft plugins
-> Working on a discord bot
-> Learning JavaScript
-> just chilling
+Working on a discord bot
+Learning JavaScript
+just chilling
 
 ## Statistics
 
